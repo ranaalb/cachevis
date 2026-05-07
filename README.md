@@ -75,13 +75,13 @@ When the user drags the Y-axis zoom bar:
 2. The scatter plots remount with the new Y-axis domain.
 3. The visible object range changes.
 
+## How To Run Program
+1. npm install
+2. npm run dev
+
 ## File Structure
 
 The main dashboard logic is contained in:
 
 ```txt
 src/cache-dashboard.jsx
-
-## How the Dashboard Works
-1. npm install
-2. npm run dev
